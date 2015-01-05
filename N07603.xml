@@ -112,19 +112,19 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:009706_0000_0F7A465532A07AD0"/>
-            <pb facs="tcp:009706_0001_0F7A4655C19BBA58"/>
+            <pb facs="unknown:009706_0000_0F7A465532A07AD0"/>
+            <pb facs="unknown:009706_0001_0F7A4655C19BBA58"/>
             <p>JOURNAL OF THE SOUTHERN CONGRESS, AT AUGUSTA IN GEORGIA, 1763.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:009706_0002_0F7A4657F2DA8630"/>
+            <pb facs="unknown:009706_0002_0F7A4657F2DA8630"/>
             <p>JOURNAL OF THE CONGRESS OF THE FOUR SOUTHERN GOVERNORS, AND THE SUPERINTENDENT OF THAT DISTRICT, WITH THE FIVE NATIONS OF INDIANS, AT AUGUSTA, 1763.</p>
             <p>SOUTH CAROLINA. CHARLES-TOWN: PRINTED BY PETER TIMOTHY, M, DCC, LXIV.</p>
          </div>
       </front>
       <body>
          <div type="journal">
-            <pb facs="tcp:009706_0003_0F7A465813929EC0"/>
+            <pb facs="unknown:009706_0003_0F7A465813929EC0"/>
             <head>JOURNAL of the proceedings of the SOUTHERN CONGRESS at Auguſta: from the arrival of the ſeveral GOVERNORS at Charles-Town, South-Carolina, the firſt day of October, to their return to the ſame place, &amp;c. the twenty-firſt day of November, 1763.</head>
             <div type="day">
                <head>SATURDAY October 1ſt, 1763.</head>
@@ -154,7 +154,7 @@
 <note place="margin">It is determined to ſend an expreſs to gov. Wright.</note> of the inconveniencies attending a journey, by land or water, to Auguſta, to the reſpective governors: for the more full explanation of which the letter referred to is as follows, viz.</p>
                <floatingText type="letter">
                   <body>
-                     <pb n="4" facs="tcp:009706_0004_0F7A4658EC299290"/>
+                     <pb n="4" facs="unknown:009706_0004_0F7A4658EC299290"/>
                      <opener>
                         <dateline>Charles-Town, South-Carolina, <date>October 4th, 1763.</date>
                         </dateline>
@@ -182,7 +182,7 @@
                </floatingText>
                <p>It was alſo further agreed,
 <note place="margin">The ſuperinten<g ref="char:EOLhyphen"/>dent to proceed to Auguſta, and con<g ref="char:EOLhyphen"/>duct the Indians to Dorcheſter,</note> that Mr. Stuart ſhould proceed to Auguſta, and collect what Indians were there, and conduct them to <hi>Dorcheſter.</hi> 
-                  <pb n="5" facs="tcp:009706_0005_0F7A4659AA3586D8"/>
+                  <pb n="5" facs="unknown:009706_0005_0F7A4659AA3586D8"/>
 From a repreſentation that the goods ordered up the river Savannah,
 <note place="margin">Where the con<g ref="char:EOLhyphen"/>greſs is now appoin<g ref="char:EOLhyphen"/>ted to be held.</note> from the lowneſs of it, could not poſſibly arrive there; and from a ſuppoſition that the Indians might be diſguſted, at not receiving the preſents in the uſual manner,
 <note place="margin">Lowneſs of Sa<g ref="char:EOLhyphen"/>vannah river, a rea<g ref="char:EOLhyphen"/>ſon for the Change of place.</note> and at the uſual time, the finiſhing of the congreſs; it was agreed, and accordingly ordered, that the ſaid goods ſhould be ſtopped, and ordered to Dorcheſter.</p>
@@ -225,7 +225,7 @@ JAMES WRIGHT.</signed>
                   </body>
                </floatingText>
                <p>
-                  <pb n="6" facs="tcp:009706_0006_0F7A465A50AE4380"/>
+                  <pb n="6" facs="unknown:009706_0006_0F7A465A50AE4380"/>
 Which letter being read,<note place="margin">Anſwer to gov. Wright agreed on.</note> in the preſence of their excellencies Thomas Boone and Arthur Dobbs, Eſqrs. and the honourable Francis Fauquier, <abbr>Eſq</abbr> the following anſwer was wrote, agreed to, and diſpatched by two opportunities.</p>
                <floatingText type="letter">
                   <body>
@@ -267,7 +267,7 @@ Which letter being read,<note place="margin">Anſwer to gov. Wright agreed on.</
                <p>THIS day a letter arrived, by expreſs, from his excellency James Wright, <abbr>Eſq</abbr> governor, &amp;c, of Georgia: the underwritten is copy thereof.</p>
                <floatingText type="letter">
                   <body>
-                     <pb n="7" facs="tcp:009706_0007_0F7A465B01A5B508"/>
+                     <pb n="7" facs="unknown:009706_0007_0F7A465B01A5B508"/>
                      <head>Lett<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap> from go<g ref="char:EOLhyphen"/>vernor Wright.</head>
@@ -287,7 +287,7 @@ Which letter being read,<note place="margin">Anſwer to gov. Wright agreed on.</
                      <p>This advice entirely coincides with my own opinion; and I judge it altogether expedient for me to go up to Auguſta to meet them,
 <note place="margin">He agrees with his council in that point.</note> in caſe they will not proceed to Charles-Town, and can be prevailed on to wait at Auguſta.</p>
                      <p>I ſend a perſon expreſs to acquaint your excellencies with this matter. If the Indians in general go to Charles-Town, I ſhall attend the congreſs there: If they will not go, it then ſeems abſolutely neceſſary for me to proceed to Auguſta, 
-<pb n="8" facs="tcp:009706_0008_0F7A465C55F81D70"/>
+<pb n="8" facs="unknown:009706_0008_0F7A465C55F81D70"/>
 where I ſhall give them a talk;
 <note place="margin">And propoſes to give the Indians a talk there, and alſo a ſhare of preſents.</note> and proceed further with them, according as I find them authorized by the nation or not, and as things may be circumſtanced; in which Mr. Stuart may join if he pleaſes. If this event ſhould happen, I doubt not but you will join in opinion, that a proportion of the preſents his majeſty has been graciouſly pleaſed to ſend out on this occaſion, will be neceſſary to give them. I have ſent an expreſs to Auguſta, and wrote to Mr. Stuart on the ſubject. The bearer has orders to wait a day for any commands you may have. I am,</p>
                      <closer>
@@ -313,7 +313,7 @@ where I ſhall give them a talk;
                            <desc>•</desc>
                         </gap> may be more beneficial to them to have the congreſs at Auguſta. You may obſerve, Sir, that they are not in a humour to follow orders: But if the Creeks, or any, after ſo ſolemn an invitation on the part of four provinces, ſhould be either refractory or ſulky, we cannot think, they ſhould be either careſſed or indulged. On the ſervice we are now ordered by the king,
 <note place="margin">The ſervice of the congreſs deſcribed.</note> it is our duty, and intention, to promote the ſecurity and advantage of every colony concerned; nor can this be more effectually done, as we conceive, 
-<pb n="9" facs="tcp:009706_0009_0F7A465CD306E150"/>
+<pb n="9" facs="unknown:009706_0009_0F7A465CD306E150"/>
 than by convincing each nation of Indians, that the four ſouthern governors act in concurrence; every expreſſion of kindneſs will have additional weight, and the danger of breaking with us will be evidently greater; and this is certainly the ſpirit of the king's intentions: we therefore muſt beg you to exert your influence with the Creeks, that the congreſs may, as it was intended, be general. We have not heard from Mr. Stuart ſince he left this place, ſo that, at preſent, we may preſume, he ſees no further objection, though appriſed of all Indian intelli<g ref="char:EOLhyphen"/>gence. We ſend him a copy of your letter, that, when acquainted with your doubts, he may be more attentive to remove every ſuſpicion or umbrage.</p>
                      <closer>
                         <signed>We are, With great regard, Sir, Your excellency's Moſt obedient and Moſt humble ſervants,
@@ -353,7 +353,7 @@ than by convincing each nation of Indians, that the four ſouthern governors act
                </floatingText>
             </div>
             <div type="day">
-               <pb n="10" facs="tcp:009706_0010_0F7A465D41DB8A48"/>
+               <pb n="10" facs="unknown:009706_0010_0F7A465D41DB8A48"/>
                <head>WEDNESDAY, October 18th.</head>
                <p>YESTERDAY in the evening arrived an expreſs from John Stuart, <abbr>Eſq</abbr> ſuperintendent, &amp;c. with the following letter, talk, &amp;c.</p>
                <floatingText type="letter">
@@ -374,7 +374,7 @@ than by convincing each nation of Indians, that the four ſouthern governors act
 <note place="margin">Creeks inſolent to the Chicaſahs &amp; Col<g ref="char:EOLhyphen"/>bert their interpreter</note> in their way through the Creek nation, was extremely inſolent, and had made thoſe Indians extremely anxious to return home; accordingly, they preſſed me much to diſpatch them: I invited them to come to the fort this day,
 <note place="margin">Chicaſahs, Creeks and Catawbas ac<g ref="char:EOLhyphen"/>quainted with the change of place.</note> with the Catawbas and Creeks; I acquainted them with the alteration of the place of meeting propoſed, and the reaſons for it. The Chicaſah leader ſaid, he had come a great way upon my invitation, and found himſelf diſappointed;
 <note place="margin">Chicaſah leader re<g ref="char:EOLhyphen"/>fuſes to go further, yet not diſpleaſed.</note> that he was too much tired to go any farther, and ſhould return without taking any thing amiſs; that ſuch accidents were often not to be avoided; that he was glad he had ſeen me; and whenever he ſhould promiſe me any thing, I might depend upon meeting with no diſappoint<g ref="char:EOLhyphen"/>ment. The next who ſpoke, was the ſecond man of the Creeks, who ſaid, that he had come punctually at the time, and to the place of appointment, and ex<g ref="char:EOLhyphen"/>pected to have ſeen the governors; that it was their hunting ſeaſon, when they ſhould have been in the woods providing for their families, but that their time was taken up in this viſit, which they ſhould not think loſt, if I would deliver the king's talk to them, and diſpatch them immediately; that ſeveral of their own people had promiſed to attend the meeting, who were not come, but that it ſeemed to be the preſent prevailing cuſtom for men to ſpeak with two tongues. 
-<pb n="11" facs="tcp:009706_0011_0F7A465F9DAEE080"/>
+<pb n="11" facs="unknown:009706_0011_0F7A465F9DAEE080"/>
 I repeated the reaſons for altering the place of meeting, which I enlarged upon as much as the ſubject would admit, and deſired they would let me know, after conſidering the affair maturely, whether or not they would go to Dorcheſter: they did not heſitate a moment, but poſitively refuſed to go one ſtep further.
 <note place="margin">Creeks alſo refuſe to go further.</note> I then aſked, if they would ſtay here 'till the return of a meſſenger I ſhould ſend to the governors? this, with great difficulty, the Creeks were prevailed upon to conſent to: they have agreed to wait here ten days,
 <note place="margin">At laſt agree to wait ten days for the return of an expreſs.</note> at the expiration of which time, if they do not ſee the governors, or receive the king's meſſage from me, they are infallibly to go away. Lieutenant Barnard ſends an expreſs to governor Wright, who will be acquainted with what has paſſed, about the time this reaches your excellency's hands. The bearer, Kalteiſen, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -403,7 +403,7 @@ I repeated the reaſons for altering the place of meeting, which I enlarged upon
                </floatingText>
                <floatingText type="letter">
                   <body>
-                     <pb n="12" facs="tcp:009706_0012_0F7A46607AA76D38"/>
+                     <pb n="12" facs="unknown:009706_0012_0F7A46607AA76D38"/>
                      <head>Copy of the lower Creeks talk, alluded to in Mr. Stuart's letter.</head>
                      <opener>
                         <dateline>
@@ -429,7 +429,7 @@ I repeated the reaſons for altering the place of meeting, which I enlarged upon
                   </body>
                </floatingText>
                <p>
-                  <pb n="13" facs="tcp:009706_0013_0F7A46613414FA30"/>
+                  <pb n="13" facs="unknown:009706_0013_0F7A46613414FA30"/>
 Lieutenant Barnard's talk to captain Aleck, Hoyaney, White Cabin, War King, Scotchman, and other headmen and warriors of the lower Creek towns.</p>
                <floatingText type="letter">
                   <body>
@@ -459,7 +459,7 @@ Lieutenant Barnard's talk to captain Aleck, Hoyaney, White Cabin, War King, Scot
                         <salute>SIR,</salute>
                      </opener>
                      <p>WE laſt night received your letter of the 15th inſtant,<note place="margin">Letter to Mr. Stuart.</note> and are ſorry you meet with any difficulty in bringing the Indians down to Dorcheſter. From your account, we have little reaſon to ſuppoſe, that the congreſs will be general, and if that is the caſe, it cannot be ſo effectual as was intended: But,<note place="margin">The governors re<g ref="char:EOLhyphen"/>ſolve, in ſpite of all difficulties, to go by land to Auguſta.</note> that we may be liable to no blame, in ſpite of the inconveniences which preſent themſelves on every ſide, in ſpite of the impoſſibility which Kalteiſen repreſents of getting a waggon to Auguſta, we have reſolved to ſet out as ſoon as poſſible; and give you this information by expreſs, that the Indians now there may wait with leſs impatience. As thoſe with you knew ſeveral nations were to be invited, 
-<pb n="14" facs="tcp:009706_0014_0F7A46621F526EC0"/>
+<pb n="14" facs="unknown:009706_0014_0F7A46621F526EC0"/>
 could they think it probable, that all would be punctual to the time? the Chero<g ref="char:EOLhyphen"/>kees were not at Fort Prince-George the 10th;<note place="margin">Muſt wait the re<g ref="char:EOLhyphen"/>turn of Col. Ran<g ref="char:EOLhyphen"/>dolph's veſſel from Georgia;</note> and though we muſt wait the return of Col. Randolph's veſſel, we apprehend, that ſome Indians will be after us at Auguſta: for the ſatisfaction of thoſe now aſſembled, we incloſe a talk, which you will deliver them, and uſe your endeavours to prevail upon them to ſtay 'till our arrival; but if you cannot ſucceed, we muſt beg you to let us know by expreſs, that we may not, by proceeding to Auguſta, encounter difficulties, and ſuffer inconvenience,<note place="margin">Yet propoſe to <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> out on monday October 24th.</note> to no purpoſe. We hope to ſet out by monday at fartheſt, and are,</p>
@@ -485,7 +485,7 @@ could they think it probable, that all would be punctual to the time? the Chero<
                      <p>
                         <note place="margin">Talk to detain the Indians at Auguſta, 'till the governors arrive there.</note>WE, the governors to the great King George, of his colonies of South and North-Carolina, and Virginia, entertained hopes of ſeeing our brothers of the Indians nations at Dorcheſter in South-Carolina, there to brighten the chain of friendſhip between the white and red men, according to the directions we have received from the great king, our common father, for that purpoſe: which chain we are deſirous to hold faſt by one end; and if you are inclined to lay ſtrong hold on the other, nothing hereafter will be able to break a ſingle link of it, and our friendſhip will laſt, as long as the ſun ſhall ſhine, or the waters flow. And to convince you, that our talk is ſtraight, and that we do not talk with double tongues, we are determined to ſet out to meet you at Auguſta, ſince you find the difficulties ſo great to come ſo near to Charles-Town: no difficulties can ſtop us, the great king's appointed governors, from executing his orders.</p>
                      <p>We have been informed of the evil news you have heard,<note place="margin">And an aſſurance given, that there is no intention to get their lands from them.</note> that the governors intended to poſſeſs your lands. We take this opportunity to aſſure you, in the king's name, that you have been miſled, by ignorant people, who do not know the great king's intention, which has been communicated to us, his officers; and that no ſuch intention is harboured in the breaſt of any of us. The great king's deſign, in ordering all his governors to act in concert as one man, and in inviting all the nations bordering on theſe colonies, to hear his talk, was directly contrary to what you have heard; for we ſhall there declare, that your lands will not be taken from you; and this is to be done before you all, and not in ſecret, that no nation of Indians may be ignorant of his gracious intentions, and of his fatherly care of the red as well as the white. We have ſent this talk previous to our coming, but which we ſhall follow immediately, to convince you of our ſincerity, and to 
-<pb n="15" facs="tcp:009706_0015_0F7A4662868E5C28"/>
+<pb n="15" facs="unknown:009706_0015_0F7A4662868E5C28"/>
 induce you to remain at Auguſta, till our arrival; that the great king's orders may be ſtrictly complied with.</p>
                      <closer>
                         <dateline>Done at Charles-Town, South Carolina, <date>18th of October, 1763.</date>
@@ -534,7 +534,7 @@ induce you to remain at Auguſta, till our arrival; that the great king's orders
                         <salute>SIR,</salute>
                      </opener>
                      <p>WE have this day drawn a bill of exchange on you, for one hundred pounds ſterling, at thirty days ſight, in favour of Robert Raper, <abbr>Eſq</abbr> in conſequence of your letter of the 11th June, to governor Boone, regarding the 
-<pb n="16" facs="tcp:009706_0016_0F7A4663445AF5B0"/>
+<pb n="16" facs="unknown:009706_0016_0F7A4663445AF5B0"/>
 Indian preſents, which arrived ſafe; preſuming that, by this time, you are in caſh for their amount, and that the reſidue of the money given for this ſervice remains in your hands. If we ſhould be miſtaken, we beg you will preſent our bills to the ſecretary of ſtate, that they be duly honoured; for no other method is pointed out to us how we ſhould defray the contingencies of this ſouthern congreſs<g ref="char:punc">▪</g>
                      </p>
                      <closer>
@@ -594,7 +594,7 @@ Indian preſents, which arrived ſafe; preſuming that, by this time, you are in
                <p>ARRIVED Col. Randolph from Georgia, <note place="margin">Col. Randolph ar<g ref="char:EOLhyphen"/>rived from Georgia.</note> in the ſcout-boat, and brought the following letter from his excellency James Wright:</p>
                <floatingText type="letter">
                   <body>
-                     <pb n="17" facs="tcp:009706_0017_0F7A4664032469B0"/>
+                     <pb n="17" facs="unknown:009706_0017_0F7A4664032469B0"/>
                      <head>Letter from go<g ref="char:EOLhyphen"/>vernor Wright.</head>
                      <opener>
                         <dateline>Savannah, <date>18th October, 1763.</date>
@@ -622,7 +622,7 @@ JAMES WRIGHT.</signed>
                      </opener>
                      <p>LAST night I was honoured with your excellencies letter of 15th current, incloſing a copy of governor Wright's letter of 11th and your anſwer; and before now governor Boone muſt have received my letter of 16th, by expreſs, in which I fully informed him of my tranſactions with the Indians, <note place="margin">Lower Creeks and Cherokees expected at Auguſts 20th of October.</note> and of their abſolute refuſal to proceed to Dorcheſter. The lower Creeks and Cherokees will be here this day, being only a few miles off. The upper Creeks, of whom a conſiderable number are here, <note place="margin">Upper Creeks per<g ref="char:EOLhyphen"/>ſiſt in their reſolu<g ref="char:EOLhyphen"/>tion, which governs the Chicaſahs.</note> remain firm in their determination to proceed no further into the ſettlements, and their reſolution will determine the Chicaſahs.</p>
                      <p>
-                        <pb n="18" facs="tcp:009706_0018_0F7A4664E0BF8B80"/>
+                        <pb n="18" facs="unknown:009706_0018_0F7A4664E0BF8B80"/>
 A regard to your excellencies conveniency, induced me to acquieſe in your propoſal of altering the place of meeting, and to uſe my utmoſt endeavours to reconcile the Indians to that meaſure, <note place="margin">Mr. Stuart ſuſpects the Indians to be privately tampered with by the traders.</note> although I then expreſſed a doubt of being able to prevail on the Creeks to proceed further into the ſettlements, having had no intelligence from the upper Creeks, Chactahs, and Chicaſahs, or anſwer to the invitation I ſent them, on the part, and by order, of the king, to meet your excellencies and me, upon the ſpecial ſervice we have in charge. I could not be certain of ſucceſs, and I did not doubt but your excellencies had reſolved on the meaſures to be purſued by you in caſe of a diſappointment. I am conſcious of having done my duty, by endeavouring to remove their jealouſies, and uſing every argument that occurred to me, to induce them to proceed. If the Indians be privately tampered with (which I ſuſpect) it muſt be by the traders, the very channel through which I am obliged to converſe with them. My beſt endeavours to engage the good offices of the traders, <note place="margin">And doubts his own influence as ſu<g ref="char:EOLhyphen"/>perintendent.</note> on this occaſion, have and ſhall not be wanting; but my influence may poſſibly be very inſufficient, for, as matters are now ſituated, they have nothing to fear or hope from my authority as ſuper<g ref="char:EOLhyphen"/>intendent: but perhaps Mr. Wright's endeavours may be more efficacious, and I learn that he is ſoon expected.</p>
                      <p>Upon the whole, as I ſhall uſe all poſſible means to accompliſh what I came about, if I fail, I hope to be free from cenſure and blame.</p>
                      <closer>
@@ -646,7 +646,7 @@ Their excellencies Thomas Boone, Arthur Dobbs, and Francis Fauquier, Eſqurs.
                      </opener>
                      <p>On the 21ſt, late at night, I had the honour of receiving your excellencies letter of 18th inſtant. <note place="margin">Creeks &amp; Chicaſahs will not go one ſtep further.</note> I am ſorry to acquaint you, that my endeavours to carry the Indians to Dorcheſter have proved unſucceſsful. The Creeks and Chicaſahs will not hear of going one ſtep further. <note place="margin">About ſeventy upper Creeks at Auguſta.</note> Of the upper Creeks, there are now here about ſeventy, including ſome women. There will be a few from the lower towns of that nation, who are now at Mr. Galphin's.</p>
                      <p>
-                        <pb n="19" facs="tcp:009706_0019_0F7A4666222B0648"/>
+                        <pb n="19" facs="unknown:009706_0019_0F7A4666222B0648"/>
 Agreeable to your excellencies deſire,<note place="margin">The ſuperintendent convenes the Indians at the Creek camp, and delivers them the governors talk.</note> I went yeſterday to the Creek camp, where I convened the Chicaſahs, Catawbas, and the Chactaw king. I delivered to them your excellencies talk, and, having waited ſome time, deſired to know their anſwer: They told me, they had no particular anſwer to give; that they had heard your talk, and ſhould think of it.<note place="margin">They are dilatory in giving an anſwer.</note> I was ſurpriſed at the indifferent diſſatisfied behaviour of the Creeks; but I ſoon after diſcovered the cauſe; the Interpreter came to me <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>n leſs than an hour after I left them, and acquainted me, that all the Creeks were ſetting out on their return home:<note place="margin">The Creeks reſolve to go home.</note> One of their nation, who,<note place="margin">Their motive diſ<g ref="char:EOLhyphen"/>covered.</note> for many years, had reſided in the Chicaſah camp near th<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -677,7 +677,7 @@ JOHN STUART.</signed>
                            <p>Copy of Mr. Colbert's journal, as incloſed in the ſuperintendent's letter to the governors, viz.</p>
                            <p>Auguſta, July 13th, 1763. I SET out with an expreſs for the upper Creeks, <note place="margin">Colbert's Journal.</note> Chactahs, and Chicaſahs:</p>
                            <p>
-                              <pb n="20" facs="tcp:009706_0020_0F7A4666B4600520"/>
+                              <pb n="20" facs="unknown:009706_0020_0F7A4666B4600520"/>
 19th. I arrived in the Oakchoys, and called all the headmen of the upper Creeks together, and was well treated there by pointing their guns at me.</p>
                            <p>23d. I ſet out for the Chactah nation. On the way I met with Mr. John Buckles, and three Chactahs, one of which went back with me.</p>
                            <p>29th. I arrived in the Chactah nation; and on my arrival I called all the headmen of the Chactahs together, and there delivered my meſſage: but none of the headmen of the French party would come to hear it. The talk was very agreeable to them of the Engliſh party, and they all with one conſent agreed to come down.</p>
@@ -693,7 +693,7 @@ JOHN STUART.</signed>
                            <p>23d. I ſet out from the Breed camp.</p>
                            <p>25th. I arrived in the Waukakoes, with the Chicaſahs, and was well treated there.</p>
                            <p>26th. I arrived in the Oakchoys, with the Chicaſahs. And there I invited 
-<pb n="21" facs="tcp:009706_0021_0F7A46671EDBA498"/>
+<pb n="21" facs="unknown:009706_0021_0F7A46671EDBA498"/>
 the Oakchoy king down:<note place="margin">Oakchoy king's reaſon for not at<g ref="char:EOLhyphen"/>tending the gover<g ref="char:EOLhyphen"/>nors.</note> All the reaſon he had for his not coming, was, that the governor would not ſend him a negro boy, to mind his ſtock while he came to ſee the governor.</p>
                            <p>27th. The Chicaſahs had a talk in the Oakchoy ſquare, giving very good talks: And the Oakchoy king told the Chicaſahs, that if it was good talks that the governors gave below, it would be better times than ever has been; but if bad talks, he would not cut his land in pieces and give it away to the white people for nothing.</p>
                         </div>
@@ -733,7 +733,7 @@ the Oakchoy king down:<note place="margin">Oakchoy king's reaſon for not at<g r
                <p>At which time the governors attended to give their talk: But the upper Creeks,<note place="margin">Requeſt of the upper Creeks.</note> having a deſire to conſult the lower Creeks, requeſted that it might be poſtponed 'till ſaturday the 5th, at the ſame hour and place: Which delay, however extraordinary, as they were only to hear, they were notwithſtanding gratified in.</p>
             </div>
             <div type="day">
-               <pb n="22" facs="tcp:009706_0022_0F7A4667C2DD5278"/>
+               <pb n="22" facs="unknown:009706_0022_0F7A4667C2DD5278"/>
                <head>AUGUSTA, SATURDAY November 5th.</head>
                <p>PRESENT
 <list>
@@ -828,7 +828,7 @@ the Oakchoy king down:<note place="margin">Oakchoy king's reaſon for not at<g r
                         </list>
                      </item>
                      <item>
-                        <pb n="23" facs="tcp:009706_0023_0F7A4669D9EB0280"/>Total number of Indians about ſeven hundred.</item>
+                        <pb n="23" facs="unknown:009706_0023_0F7A4669D9EB0280"/>Total number of Indians about ſeven hundred.</item>
                      <item>
                         <list>
                            <head>Interpreters</head>
@@ -858,7 +858,7 @@ the Oakchoy king down:<note place="margin">Oakchoy king's reaſon for not at<g r
                            <p>We deſire you to recollect,<note place="margin">And dupes to the French.</note> in how many inſtances they have miſled and deceived you; you well remember their lies, and have been the dupes of their promiſes.</p>
                            <p>They are never eaſy,<note place="margin">The French reſt<g ref="char:EOLhyphen"/>leſs miſchievous in<g ref="char:EOLhyphen"/>cendiaries.</note> unleſs engaged in miſchief themſelves, or when engaging others; incapable of ſupplying your wants, they endeavour to detach you, from your beſt and only friends the Engliſh.</p>
                            <p>
-                              <pb n="24" facs="tcp:009706_0024_0F7A466AC8D615C0"/>
+                              <pb n="24" facs="unknown:009706_0024_0F7A466AC8D615C0"/>
 The great king,<note place="margin">The great king's intentions explain'd</note> who wiſhes to extend the commerce of his ſubjects, to live in peace and friendſhip, and relieve the diſtreſs of all mankind, bore with uncommon patience,<note place="margin">His patience with the French,</note> the repeated inſults and exceſſive cruelties, which the French alone could perpetrate; to cruelty they added treachery and perfidy: fair ſpeeches were in their mouths,<note place="margin">Who are not to be truſted.</note> but miſchief in their hearts; and when they did not act openly themſelves, they deceived and inſtigated the red people to outrages, which could only end in ſeparating them from the white people, with whom they ought, for the advantage of both, to be united.</p>
                            <p>At length,<note place="margin">His moderation deſcribed.</note> when the great king ſaw his moderation diſregarded, his children plundered and deſtroyed, and that the French were reſolved to contend with him for ſuperiority, that one country in ſhort, could not hold them both: he then exerted himſelf like a man;<note place="margin">And his power, in ſoon ſubduing the French &amp; Spaniards.</note> and, in a ſhort time, defeated and humbled that perfidious enemy, and alſo the Spaniards, who, by the fatal and miſchievious practices of the French, had been involved in the quarrel.</p>
                            <p>The king has now given peace to both nations;<note place="margin">He gives them peace.</note> and to prevent the revival of ſuch diſturbances and troubles, by repetitions of ſuch dangerous proceedings, and for this purpoſe only,<note place="margin">And fixes their boundaries.</note> he inſiſted, in the treaty of peace, that the French and Spaniards ſhould be removed beyond the river Miſſiſippi, that the Indians and white people may, hereafter, live in peace and brotherly friendſhip together: It will be your faults,<note place="margin">Fault of the Indi<g ref="char:EOLhyphen"/>ans, If they do not live in peace with the Engliſh.</note> if this does not happen, for we are authorized by the great king, to give you the moſt ſubſtantial proofs of our good intentions, and deſire to live like brothers with you.</p>
@@ -869,7 +869,7 @@ The great king,<note place="margin">The great king's intentions explain'd</note>
                            <p>Laſtly,<note place="margin">And the forts ce<g ref="char:EOLhyphen"/>ded to us, ſhall be employed for their protection.</note> we promiſe you faithfully and ſolemnly, that thoſe forts now ceded to us by the French, ſhall be employed for your protection, aſſiſtance and con<g ref="char:EOLhyphen"/>venience; and for the better carrying on trade with you, by which we all ſhall be benefitted.</p>
                            <p>Conſider now like wiſe men,<note place="margin">The Indians ad<g ref="char:EOLhyphen"/>moniſhed to conſider of the Indulgences ſhewn them.</note> whether this is the language of ill deſigning people; whether there is any occaſion at this time, to make you ſuch friendly aſſurances, unleſs it was our intention to keep our words.</p>
                            <p>
-                              <pb n="25" facs="tcp:009706_0025_0F7A466B842F8C68"/>
+                              <pb n="25" facs="unknown:009706_0025_0F7A466B842F8C68"/>
 The white people value themſelves on ſpeaking truth;<note place="margin">The congreſs or<g ref="char:EOLhyphen"/>dered to be ſo gene<g ref="char:EOLhyphen"/>ral, to prevent jea<g ref="char:EOLhyphen"/>louſies.</note> but to give ſtill greater weight to what we ſay, the great king has thought proper, as we obſerved before, that his four governors and the ſuperintendent, from a great diſtance, ſhould utter the ſame words, at the ſame time; and to remove every umbrage or jealouſy, that you ſhould all hear them, in preſence of one another, and bear teſtimony for one another, in caſe we ſhould ever act contrary to our declarations.</p>
                            <closer>
                               <dateline>Given at Auguſta in the province of Georgia, <date>5th of November 1763.</date>
@@ -910,7 +910,7 @@ At fort Auguſta, monday the 7th and tueſday the 8th of November, 1763.</head>
                <p>PIAMATAH,<note place="margin">The Chicaſahs.</note> a Chicaſah leader, delivered himſelf to the following effect:</p>
                <q rend="inline normQuotes">
                   <p>That he had been here a long time, and would give his talk firſt, and then give leave to the Creeks; that the day was at length come on which he 
-<pb n="26" facs="tcp:009706_0026_0F7A466C50F17E70"/>
+<pb n="26" facs="unknown:009706_0026_0F7A466C50F17E70"/>
 hoped to ſee his dearly beloved brother of Charles Town,<note place="margin">They rejoice to ſee the governors.</note> and alſo the other go<g ref="char:EOLhyphen"/>vernors; and now the day is come he will give his talk. That he is come to return thanks for the ſervices already done them;<note place="margin">Return thanks for paſt favours.</note> and ſays, if it had not been for the aſſiſtance of their excellencies, he ſhould not have been here at this time: He was the man that ſent expreſs, when in want of things, and is ready to give any proofs of his attachment to the Engliſh;<note place="margin">Are ready to give any proofs of the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>r attachment to the Engliſh.</note> you muſt not look on him as on other Indian nations,<note place="margin">And tho' few, are faithful.</note> for he is true and truſty; he and his, are few, but faithful: That he has no fault to find, as none has been found with them; that we have of late heard of no miſchief being done by the Chicaſahs; that he looks on the white people and them as one; that they are as good friends as if they had ſucked one breaſt. Although his ſkin is not white, his heart is ſo, and as much ſo as any white man. He has now done on that ſubject, and will proceed to ſomething elſe.</p>
@@ -927,7 +927,7 @@ hoped to ſee his dearly beloved brother of Charles Town,<note place="margin">Th
                <q rend="inline normQuotes">
                   <p>He is glad to ſee you all here, and having received a good talk, will now give his, viz.</p>
                   <p>
-                     <pb n="27" facs="tcp:009706_0027_0F7A466D0F5B88A8"/>
+                     <pb n="27" facs="unknown:009706_0027_0F7A466D0F5B88A8"/>
                      <note place="margin">Capt. Aleck ſpoke for the whole nati<g ref="char:EOLhyphen"/>on, being au<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>horiſed by the abſent as well as preſent.</note> It is not his own ſpeech, but of the whole nation, put into his mouth by them; the talk is much the ſame as formerly given, there is no need of varia<g ref="char:EOLhyphen"/>riation; all the headmen, upper and lower, have given their talk, and heard that of the governors with ſatisſaction; and as for the abſentees of the Creeks, they have ſent word they will abide by the proceedings of thoſe preſent.<note place="margin">To <gap reason="illegible" resp="#PDCC" extent="2 words">
@@ -954,7 +954,7 @@ hoped to ſee his dearly beloved brother of Charles Town,<note place="margin">Th
                </q>
                <p>SYMPOYAFFEE (or Fool Harry) then ſaid,<note place="margin">Trading in the woods complained of.</note>, "As the governors had heard the reſt of his nation, he hoped they would hear him. And then deſired them not to ſuffer any people to trade in the woods, but to go into the towns to trade; no rum to be ſold to the Indians in the woods,<note place="margin">Selling rum there a pernicious practice</note> becauſe the young people there got drunk, and diſpoſed of their ſkins for that commodity, and ſo were rendered unable to pay their debts to the traders in the nation, which frequently occaſioned quarrels and miſchief among them.<note place="margin">Cauſes quarrels, &amp;c</note>, He ſpeaks boldly before the whites and red, and that the reds often lend runners for rum, which he deſires may be prevented; and if the governors will not forwarn the white people,<note place="margin">If continued, the venders will ſuffer.</note> he will not kill them, but he will take all they have from them, and aſk them if they are French or Spaniards."</p>
                <p>
-                  <pb n="28" facs="tcp:009706_0028_0F7A466DC5FDD810"/>
+                  <pb n="28" facs="unknown:009706_0028_0F7A466DC5FDD810"/>
 The YOUNG TWIN ſaid,<note place="margin">Young-Twin men<g ref="char:EOLhyphen"/>tions his father, re<g ref="char:EOLhyphen"/>turns his commiſſi<g ref="char:EOLhyphen"/>on, gives his reaſon, and profeſſes friend<g ref="char:EOLhyphen"/>ſhip.</note> "His father was a great man, he behaved well. When he died the white people thought proper to receive him, eight years ſince, and none but bad talks have been ſince then, becauſe he was a boy. A com<g ref="char:EOLhyphen"/>miſſion was given him for peace, but as blood has been ſpilt, he deſires to return his commiſſion, as he is not minded in the nation, being young: 'though he gives up his commiſſion, yet he will hold his hand out to the white people."</p>
                <p>MICOHATCHEE,<note place="margin">Micohatchee pro<g ref="char:EOLhyphen"/>duces his commiſſi<g ref="char:EOLhyphen"/>on.</note> a Coweta king, informed, "That his brother died on the path, and that he went to Savannah, and governor Wright gave him a com<g ref="char:EOLhyphen"/>miſſion, which he produced."</p>
                <p>MUSTISIKAH,<note place="margin">Creek talks end.</note> having declared to the ſame effect, finiſhed the Creeks talk.</p>
@@ -968,7 +968,7 @@ The YOUNG TWIN ſaid,<note place="margin">Young-Twin men<g ref="char:EOLhyphen"/
                </p>
                <p>And then the PRINCE of Chotih ſaid,<note place="margin">Prince of Chotih deſires the governors to ſmoak before he begins.</note> "Now you governors are all here, and captain Stuart, he deſires you will all ſmoak, and then he will give his talk." And when they had all ſmoaked with him, he proceeded and ſaid, "Now you beloved men are met together; he is a beloved man as well as you; he knows nothing that may happen,<note place="margin">Says it is his houſe at Chotih where the good talks are given</note> the being above only knows; he has a houſe at Chotih, where the beloved talks are made, and all the warriors may hear; he has made a path from Chotih to the Engliſh, he hopes nothing will ever ſpoil it; he gave a ſtring of beads with three knots,<note place="margin">Gives a particular ſtring of heads.</note> and ſaid, the middle knot repreſented Fort Prince-George, the one end his town of Chotih, the other Charles-Town, and he hopes the talks and paths will always be ſtraight; the king George has ſent a good talk, the path ſhall always be kept ſtraight to hear good talks."</p>
                <p>Then ATTAKULLAKULLA, the Little-Carpenter, obſerved, "That it was a great while ſince he heard the invitation,<note place="margin">The Little-Car<g ref="char:EOLhyphen"/>penter ſpeaks.</note> but he is now come, and will give his talk. You are all acquainted with his good opinion of king George, 
-<pb n="29" facs="tcp:009706_0029_0F7A466ECD1C9910"/>
+<pb n="29" facs="unknown:009706_0029_0F7A466ECD1C9910"/>
 and there is no need of repetition. 'Twas at his own town he heard this invi<g ref="char:EOLhyphen"/>tation,
 <note place="margin">Gives beads.</note> and he is now come, and is glad to ſee the ſeveral nations." <hi>(He gave a ſtring of beads)</hi> and then ſaid.<note place="margin">Mentions the cauſe of the Great-War<g ref="char:EOLhyphen"/>rior's abſence.</note> 
                   <q>The Great Warrior had a talk with him before he came away, but he is now gone down the river to look after his people. The Great-Warrior ſent beads, as a teſtimony of his friendſhip for the white people, and good intentions towards them.<note place="margin">Preſents beads from him.</note> 
@@ -989,7 +989,7 @@ and there is no need of repetition. 'Twas at his own town he heard this invi<g r
                <p>ATTAKULLAKULLA,<note place="margin">Gives a talk to the Indians.</note> gave a talk to the ſeveral Indian nations, viz.</p>
                <q rend="inline normQuotes">
                   <p>He has now met all the red people of various nations, and will now give his talk to them. He has heard a many lies from the Cooſahs, and that way, but he is now intending to make the path ſtraight. He ſays, the governors, by 
-<pb n="30" facs="tcp:009706_0030_0F7A466F4FC8D520"/>
+<pb n="30" facs="unknown:009706_0030_0F7A466F4FC8D520"/>
 the great king's orders, ſent for them all together, and not to dwell together in e<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1009,7 +1009,7 @@ the great king's orders, ſent for them all together, and not to dwell together 
                <p>After having finiſhed his talk to the governors, he preſented ſtrings of white beads to each of the nations of Indians,<note place="margin">Give beads to each nation of Indians.</note> in which he deſired them to obſerve there was not one black one amongſt them, and that he preſented them as tokens of the friendſhip he profeſſed for them all, and which he deſired might continue.</p>
             </div>
             <div type="day">
-               <pb n="31" facs="tcp:009706_0031_0F7A467004FAB820"/>
+               <pb n="31" facs="unknown:009706_0031_0F7A467004FAB820"/>
                <head>AUGUSTA, TUESDAY November 8th.</head>
                <p>PRESENT Their excellencies the Governors, Superintendent, Interpreters, Indians, &amp;c. as at the congreſs yeſterday.</p>
                <p>THE reply to the Indians requiring more time than was expected,<note place="margin">Indians informed that replies to their talks would be deli<g ref="char:EOLhyphen"/>vered next day.</note> the gover<g ref="char:EOLhyphen"/>nors informed them, that it ſhould be delivered the next day, being the 9th, at eleven o'clock in the morning: But in the mean time,<note place="margin">In the mean time the governors were willing to hear any thing they had to ſay further.</note> if any of the tribes of Indians had any thing to add to their former talks, the governors were ready to hear them; when</p>
@@ -1031,7 +1031,7 @@ the great king's orders, ſent for them all together, and not to dwell together 
                   </note> ſaid, "Many white people are aſſembled here, and he is very glad to ſee them. White people are ſettled beyond the Long-Canes, they may ſtay there, but muſt proceed no farther. The white people and his are as one, and when they meet in hunting, good behaviour may be by and between both. The lands towards Virginia, muſt not be ſettled nearer the Cherokees than the ſouthward of New-River; hunting is their trade, and they have no other way of getting a living. <hi>(Gave a ſtring of beads.)</hi> Now he is before the governors,<note place="margin">Again deſires tra<g ref="char:EOLhyphen"/>ders.</note> he deſires they will order traders to his town; there is a plentiful ſtore at Keehowee, but it is a long way from him, and it is very hard work to carry leather over the mountains,<note place="margin">Reaſon why.</note> and a long way for the women to fetch any ſmall matter; he deſires good traders, ſtaid men, not young rioting fellows who commit diſturbances;<note place="margin">Number requeſted.</note> eight traders will be ſufficient, and to have them placed in the towns. <hi>(Gave a ſtring of beads and wampum.)</hi> He deſired to have traders ſent him from Virginia."<note place="margin">Deſires ſome from Virginia.</note> When he was deſired to explain, whether he did not addreſs the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> governors, he replied,<note place="margin">A queſtion put to him.</note>
-                  <pb n="32" facs="tcp:009706_0032_0F7A46728C5C8148"/>
+                  <pb n="32" facs="unknown:009706_0032_0F7A46728C5C8148"/>
 "That one or more traders might come from each,<note place="margin">His anſwer.</note> therefore he addreſſed the four governors; and as king George has ordered him goods, he hoped the go<g ref="char:EOLhyphen"/>vernors would ſend them accordingly. He has now done, and will be glad to be on his journey home, as ſoon as their excellencies pleaſe to diſpatch him."</p>
                <p>SALLOUIH, the Young-Warrior of Eſtatowih (Beamer his interpreter) ſaid, "He had heard the talk from the great king George. That the people of his nation had been often at Charles-Town to hear talks, he never was, therefore he came to ſee the governors. He never is inclined to be at meetings, but is well pleaſed with what he has heard,<note place="margin">Young Warrior of Eſtatowih is pleaſed with what he has heard.</note> and hopes the governors are alſo. As the warriors are now done, he will ſpeak, and begs to be heard. He ſays, ſome time ago 'twas cloudy, all was darkneſs, but is now clear; and he hopes all will be forgiven,<note place="margin">Promiſes to be a friend in future, to the Engliſh.</note> and then nothing offenſive ſhall be more repeated: the great king George, in pity, hath taken them into favour, and as the day is bright and clear, he hopes it will ever be ſo on the path. The warriors who have been in England had a right to ſpeak firſt, but now he informs, that his heart is as firm to the Engliſh as ever in his life; he ſees all around his friends, both red and white people. That the white people of Georgia were the firſt that gave them goods after the war,<note place="margin">Alſo requeſts goods from Charleſtown.</note> he now hopes to have a ſupply from Charles-Town; there is goods at Keehowee plenty, but people who live eight or ten miles diſtant, and want trifles,<note place="margin">Gives his reaſon.</note> find it hard to ſend or go to Keehowee for them. The lines run out between the Engliſh and them he is ſatisfied with,<note place="margin">And is ſatisfied with the lines.</note> though they are ſmall for his people; the white people ſettled at or near Long-Canes he deſires not to remove, but none more to ſettle nearer the Cherokees." After reminding again con<g ref="char:EOLhyphen"/>cerning the traders, he declared he had finiſhed his talk, and gave a ſtring of beads.</p>
             </div>
@@ -1043,7 +1043,7 @@ the great king's orders, ſent for them all together, and not to dwell together 
                   <p>Friend, brother, and ally,</p>
                   <p>WE,<note place="margin">Their conduct ap<g ref="char:EOLhyphen"/>proved.</note> the ſeveral governors and ſuperintendent, are extremely pleaſed with the talk you delivered the day before yeſterday; as our eldeſt brother you began replying, and gave an example to the other Indians; your talk was as ſtrait, and as grateful, as your conduct has been for theſe many years; we ac<g ref="char:EOLhyphen"/>knowledge your fidelity; we have had repeated proofs it, and we hope that by this meeting the chain of friendſhip, which has long united us, will receive ad<g ref="char:EOLhyphen"/>ditional ſtrength and brightneſs.</p>
                   <p>The words you have uttered are thoſe of a wiſe and generous man; and ſuch as experience has taught you; you obſerve, that you cannot do without the white people; this is moſt certainly true<g ref="char:punc">▪</g> but it is as certain, that by preſerving 
-<pb n="33" facs="tcp:009706_0033_0F7A4673C613AA00"/>
+<pb n="33" facs="unknown:009706_0033_0F7A4673C613AA00"/>
 your heart entirely Engliſh, by making their enemies, your enemies, and their friends, your friends, you have felt no wants whatever; the great king has liberally ſupplied you,<note place="margin">No difficulties <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> obſtruct their being ſupplied by the Eng<g ref="char:EOLhyphen"/>liſh while they be<g ref="char:EOLhyphen"/>have well.</note> he has convinced you, that let his children be ever ſo remote, let ſeas, or mountains ſeparate them, that as long as they behave as faithfully as you have done, they never will be caſt off. You ſay that the number of traders which paſs through your country to the Chactahs,<note place="margin">Their objection to the number of tra<g ref="char:EOLhyphen"/>ders anſwered.</note> and the too great num<g ref="char:EOLhyphen"/>ber which trade with your people, breed diſturbances, which you may not always be at hand to prevent. You now ſhall have a reply to both thoſe remarks. By the ceſſion of Mobile to the Engliſh, the Chactah trade will be carried on from thence, becauſe it will be more convenient to both Engliſh and Indians, ſo that from this time you will have no complaints of that kind to make. Your other requeſt, that Heyrider and Brown only ſhould traffic among you, has been conſidered by us as your friends, and we are perſuaded that ſome white man for his own intereſt has impoſed upon you.<note place="margin">Reaſons given why a few will not be advantageous for them.</note> You may believe us as the great king's beloved men, that where the trade is in few hands the prices of goods are always higher; but if you give a preference to the traders you have mentioned, you are under no obligation to buy goods of others; if Heyrider and Brown are your friends, deal with them only; but they are more likely to continue to uſe you well, when you have other traders to reſort to, in caſe they abuſe you. This advice comes from us all, and we give it, becauſe we eſteem and value you. We have nothing further to add, but that you may ſafely rely on the continuance of that friendſhip and aſſiſtance which the great king has always given you.</p>
@@ -1058,7 +1058,7 @@ your heart entirely Engliſh, by making their enemies, your enemies, and their f
                         <desc>•</desc>
                      </gap>ed aſſurances, that your hearts,<note place="margin">Their anſwer ap<g ref="char:EOLhyphen"/>proved.</note> and the hearts of your whole people (for whom you ſpeak) are ſtrait and good towards the great king George and his ſubjects, they receive cordially; and that ſuch friendly declarations as theſe duly obſerved on your parts, you may depend ſhall be properly regarded by us, who will continue to exerciſe the king's great benevolence and goodneſs to you agreeable to his talk given you at our firſt meeting.</p>
                   <p>The complaint made of ſtraggling people going about the woods between Auguſta and the Creek country,<note place="margin">Stragglers ſelling rum, &amp;c. in the woods, to be ſup<g ref="char:EOLhyphen"/>preſſed.</note> and carrying rum and other things to trade with ſuch Indians as they may meet with when hunting, is a miſchief that we are ſenſible of, and what we are very deſirous of putting a ſtop to; and you may be aſſured, that every thing which can be done ſhall, in order to prevent ſuch practices. You have alſo mentioned, that if any negroes run away, or horſes or cattle ſtray, into your grounds, that you will ſeize upon them and keep them;<note place="margin">Negroes, horſes, &amp;c. muſt not be ſeized by the Creeks.</note> but, with reſpect to theſe two points, you muſt recollect, and well remember, the treaties and agreements you have formerly entered into with the white people, 
-<pb n="34" facs="tcp:009706_0034_0F7A46748E29ABE0"/>
+<pb n="34" facs="unknown:009706_0034_0F7A46748E29ABE0"/>
 and that you are not to do any miſchief or damage to them,<note place="margin">They are adm<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
@@ -1071,7 +1071,7 @@ and that you are not to do any miſchief or damage to them,<note place="margin">
                   <p>We have examined the commiſſion delivered by Togulkie, and have heard and believe,<note place="margin">The governors will not interfere in the choice of emperors, but approve them when choſen.</note> that his father was a great king and warrior in the Creek country, and we hope Togulkie may be ſo too; but we ſhall not interfere with you in the choice or appointment of your emperors or kings, but whenever you ſhall agree amongſt yourſelves upon the election or choice of an emperor, we ſhall be ready to confirm ſuch choice.</p>
                   <p>Capt. Aleck has mentioned a claim to his ſettlement at Sancta Sevilla, which he ſays has been run out;<note place="margin">Aleck's charge of encroaching on his land, anſwered.</note> as to which the governors obſerve, that they know of no ſurvey being made on any ſettlement of his; that if any ſuch thing is done, it is without their privity; and, if the lands are really his, nothing that has been done can affect his property, but he will continue to enjoy them.</p>
                   <p>You have propoſed enlarging and extending the boundaries or limits of the lands to the weſtward,<note place="margin">His propoſal to enlarge the weſtern boundary.</note> which may be ſettled by the white people; and this you declare to be,<note place="margin">And reaſons why.</note> in gratitude and return for the great clemency and generoſity ſhewn to you by his majeſty, and which in his name we agree to accept of: So that, for the future, the ſettlements of the white people are to extend up Savannah river to Little river, and back to the fork of Little river, and from the fork of Little river to the ends of the ſouth branch of Briar creek, and down that branch to the Lower-Creek path, and along the Lower-Creek path to the main ſtream of Ogeechie river, and down the main ſtream of that river juſt below the path leading from Mount-Pleaſant, and from thence in a ſtrait line croſs to Sancta Sevilla on the Alatamaha river, and from thence to the ſouthward as far as 
-<pb n="35" facs="tcp:009706_0035_0F7A46754F5CFFA8"/>
+<pb n="35" facs="unknown:009706_0035_0F7A46754F5CFFA8"/>
 Georgia extends or may be extended, to remain to be regulated,<note place="margin">The enlargement deſcribed.</note> agreeable to former treaties, and his majeſty's royal inſtruction, a copy of which was lately ſent to you; and this matter may be more particularly mentioned and deſcribed in the treaty which we ſhall now propoſe to be made between us.</p>
                </q>
                <p>Upon an explanation of the boundary line in the talk to them, they were again aſked, if they <hi>clearly</hi> underſtood it? to which they all, and the Wolf king in particular, anſwered in the affirmative.</p>
@@ -1090,7 +1090,7 @@ Georgia extends or may be extended, to remain to be regulated,<note place="margi
                   <p>THE governors and ſuperintendent obſerve with pleaſure the good diſpoſition with which you are come to this meeting,<note place="margin">Their behaviours applauded.</note> apparent in your talks and in your countenances; and the juſt ſenſe you ſhew of the great king's kind and fatherly intentions to you and all his red people and children.</p>
                   <p>In your anſwers to the talk delivered from him, you mention two points, to each of which you will now receive particular anſwers. The firſt relates to the trade carried on between the white people and your towns; the other to the lands on which the white people are ſettled. As to the trade, you have goods ſent among you by almoſt all the colonies over which we preſide;<note place="margin">Reasons why few traders go amongſt them.</note> but the prices you are inclined to give for goods are ſo ſmall, that few traders chooſe to carry goods into your towns: You muſt conſider, that if traders do not make an advantage of their goods, they will not carry them; you would do the ſame yourſelves.</p>
                   <p>
-                     <pb n="36" facs="tcp:009706_0036_0F7A46760DAFDC48"/>
+                     <pb n="36" facs="unknown:009706_0036_0F7A46760DAFDC48"/>
 The trade of South Carolina ſtands on another footing.<note place="margin">And why a factory was ſettled at Kee<g ref="char:EOLhyphen"/>howee.</note> At the time the path into your towns was but lately cleared from blood; to preſerve it clean, to pre<g ref="char:EOLhyphen"/>vent the ſame miſchiefs from being repeated, which had been occaſioned by the madneſs of your young men, and the miſbehaviour of our traders, a factory was ſettled at Keehowee, and a trader whom we can depend upon for uſing you well eſtabliſhed there;<note place="margin">Keehowee a plen<g ref="char:EOLhyphen"/>tiful and cheap place for goods.</note> plenty of goods are conſtantly kept for your ſupply, and the price as low or lower than any private trader can afford them: This regulation the province of South Carolina cannot alter, becauſe it has been laid before the king; it is in his power, and in his alone, to make an alteration; and until this is done, South-Carolina has not the power of lending private traders.</p>
                   <p>In North Carolina there are no Indian traders at all,<note place="margin">No Indian traders from North Carolina.</note> either to your nation or any other.</p>
                   <p>And as to Virginia,<note place="margin">Virginia traders at liberty to go among them or not.</note> the traders there are free to carry up their goods or not, as they find their advantage. There are no laws to compel them to go, or to<note place="margin">They cannot be compelled.</note>reſtrain them from going. Every man carries up his goods as he thinks proper, and ſets ſuch prices upon them, as he judges will anſwer his expence in carrying them up into your towns. You are alſo free to purchaſe them or not, as you approve of the prices ſet upon them. And all we have to add on this ſubject is, that the government of Virginia ſets no prices on the goods ſent up to you, but leaves you and the traders to agree upon the price in ſuch manner as is ſuitable to you both.</p>
@@ -1098,7 +1098,7 @@ The trade of South Carolina ſtands on another footing.<note place="margin">And 
                   <p>By a former governor,<note place="margin">Lands run out explained.</note> and above twenty ſince, a large grant of lands in that part of the country was made to one col. Patten, who under that grant ſold out parcels of the land to people who ſettled there: In theſe ſettlements you have acquieſced without complaint to this time, as they are at a great diſtance from your country. Another large grant was alſo made by the great king juſt before the breaking out of the war with the French; but thoſe diſturbances prevented many perſons ſettling un<g ref="char:EOLhyphen"/>der that grant,<note place="margin">No intruſion upon them made or in<g ref="char:EOLhyphen"/>tended.</note> and by the king's late inſtructions to the governor of Virginia no land can be granted even ſo far as the eaſtern banks of that river. And in obe<g ref="char:EOLhyphen"/>dience to that inſtruction not a foot has been ſince granted upon that river, ſo that you have nothing further to apprehend on that account. And we now take this opportunity to confirm you in your ſecurity, by aſſuring you, that on the return of the governor of Virginia into his colony, all treaties will be carefully examined, and punctually obſerved, and you may depend on ſtrict juſtice being done to you. It is poſſible, ſome idle perſons may ſit down on lands without any authority whatever:
 <note place="margin">Any idle people ſettling upon them to be removed on complaint made.</note> But this you ought not to conſider as an act of the government, which does not nor ever will countenance and protect people ſettling in that manner, but heartily concur with you in removing them on complaint made by you to the governor for that purpoſe.</p>
                   <p>
-                     <pb n="37" facs="tcp:009706_0037_0F7A4676C7F6F890"/>
+                     <pb n="37" facs="unknown:009706_0037_0F7A4676C7F6F890"/>
 In relation to the ſettlements above Long Canes in South Carolina, thoſe ſet<g ref="char:EOLhyphen"/>tlements were allowed and agreed to in the treaty of peace ſigned at the cloſe of the laſt war, by lieutenant-governor Bull and Attakullakuila, between the white people and your nation.</p>
                </q>
                <p>And then the interpreters were ordered to inform the ſeveral nations of In<g ref="char:EOLhyphen"/>dians,<note place="margin">The Indians in<g ref="char:EOLhyphen"/>formed of presents ſent <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -1138,7 +1138,7 @@ In relation to the ſettlements above Long Canes in South Carolina, thoſe ſet<
                      </gap>d an imme<g ref="char:EOLhyphen"/>diate ſurvey of their lands.</note> upon appearing ſatisfied with the line of fifteen miles ſquare, were informed, that a new ſurvey ſhould be made, and when the line was run the people ſettled within ſhould be removed, and no new warrants granted them, or any others to ſettle within thoſe limits: Upon which they deſired a new line would be run out immediately.</p>
                <p>The Catawbas being aſked,<note place="margin">And they chooſe col. Ayres for their emperor.</note> if they approved Colonel Ayres as their chief or emperor? anſwered unanimouſly, yes. In conſequence of ſuch their declaration, the governors and ſuperintendent accepted him.</p>
                <p>Then the queſtion was put to the reſpective chiefs of the ſeveral tribes of In<g ref="char:EOLhyphen"/>dians,<note place="margin">A treaty of peace propoſed and agreed to.</note> whether in conſequence of their good profeſſions towards the Engliſh, they were inclined to enter into a treaty of peace, &amp;c. and in writing for that 
-<pb n="38" facs="tcp:009706_0038_0F7A46778F3376D8"/>
+<pb n="38" facs="unknown:009706_0038_0F7A46778F3376D8"/>
 purpoſe? and they all conſenting thereto, were informed, that on the morrow, being the 10th of November, they were to aſſemble at the ſame place, at eleven o'clock, when ſuch a treaty ſhould be ready, to be ſigned by the governors, ſu<g ref="char:EOLhyphen"/>perintendent, and them.</p>
                <p>The prince of Chotih made overtures of peace and friendſhip to Pia-Mattah,<note place="margin">Overtures of peace made by the Chero<g ref="char:EOLhyphen"/>kees, to the Chica<g ref="char:EOLhyphen"/>ſahs,</note> the chief Chicaſah; which being accepted, the prince of Chotih gave him a ſtring of white beads.</p>
                <p>The Young-Warrior and Tiſtowih (Cherokees) had friendly talks with Muſti<g ref="char:EOLhyphen"/>ſicah and Fool-Harry,<note place="margin">And the Creeks.</note> two Creeks, and gave beads to each of them.</p>
@@ -1153,7 +1153,7 @@ purpoſe? and they all conſenting thereto, were informed, that on the morrow, b
                            <div n="1" type="article">
                               <head>ARTICLE I.</head>
                               <p>THAT a perfect and perpetual peace and ſincere friendſhip ſhall be continued, between his majeſty King George the third and all his ſubjects, and the ſeveral nations and tribes of Indians herein mentioned, that is to ſay, the Chica<g ref="char:EOLhyphen"/>ſahs,<note place="margin">The white people to be ſecure upon all accounts whatever.</note> upper and lower Creeks, Chactahs, Cherokees, and Catawbas; and each nation of Indians hereby, reſpectively, engages to give the utmoſt attention to preſerve and maintain peace and friendſhip between their people and the king of Great-Britain and his ſubjects, and ſhall not commit or permit any kind of hoſti<g ref="char:EOLhyphen"/>lities, injury or damage whatſoever againſt them, from henceforth, and for any cauſe, or under any pretence whatſoever. And for laying the ſtrongeſt and 
-<pb n="39" facs="tcp:009706_0039_0F7A46784FD12DD8"/>
+<pb n="39" facs="unknown:009706_0039_0F7A46784FD12DD8"/>
 pureſt foundation for a perfect and perpetual peace and friendſhip, his moſt ſacred majeſty has been graciouſly pleaſed to pardon and forgive all paſt offences and injuries. And hereby declares, there ſhall be a general oblivion of all crimes,<note place="margin">Indians forgives all paſt offences.</note> offences and injuries that may have been heretofore committed or done by any of the ſaid Indian parties.</p>
                            </div>
                            <div n="2" type="article">
@@ -1171,7 +1171,7 @@ pureſt foundation for a perfect and perpetual peace and friendſhip, his moſt 
                            <div n="4" type="article">
                               <head>ARTICLE IV.</head>
                               <p>Whereas doubts and diſputes have frequently happened on account of encroach<g ref="char:EOLhyphen"/>ments,<note place="margin">The Creeks, to prevent future diſ<g ref="char:EOLhyphen"/>putes about lands, fix new boundaries, here deſcribed.</note> or ſuppoſed encroachments, committed by the Engliſh inhabitants of 
-<pb n="40" facs="tcp:009706_0040_0F7A467A799689D8"/>
+<pb n="40" facs="unknown:009706_0040_0F7A467A799689D8"/>
 Georgia, on the lands or hunting grounds reſerved and claimed by the Creek Indians for their own uſe: Wherefore, to prevent any miſtakes, doubts, or diſputes for the future, and in conſideration of the great marks of clemency and friendſhip extended to us the ſaid Creek Indians, we, the kings, headmen and warriors of the ſeveral nations and towns of both upper and lower Creeks, by virtue, and in purſuance, of the full right and power which we now have and are poſſeſſed of have conſented and agreed, that, for the future, the boundary be<g ref="char:EOLhyphen"/>tween the Engliſh ſettlements and our lands and hunting grounds, ſhall be known and ſettled by a line extending up Savannah river to Little river, and back to the fork of Little river and from the fork of Little river to the ends of the ſouth branch of Briar creek, and down that branch to the lower Creek path, and along the lower Creek path to the main ſtream of Ogeechie river, and down the main ſtream of that river juſt below the path leading from Mount-Pleaſant, and from thence in a ſtraight line croſs to Sancta Sevilla on the Alatamaha river, and from thence to the ſouthward as far as Georgia extends, or may be extended, to remain to be regulated, agreeable to former treaties, and his majeſty's royal inſtruction, a copy of which was lately ſent to you.</p>
                               <p>And we the Catawba headmen and warriors, in confirmation of an agreement heretofore entered into with the white people,<note place="margin">The Catawbas ſa<g ref="char:EOLhyphen"/>tisfied with the land to be run out for them<g ref="char:punc">▪</g>
                                  </note> declare, that we will remain ſatis<g ref="char:EOLhyphen"/>fied with the tract of land of fifteen miles ſquare, a ſurvey of which, by our conſent, and at our requeſt, has been already begun; and the reſpective gover<g ref="char:EOLhyphen"/>nors and ſuperintendent, on their parts, promiſe and engage, that the aforeſaid ſurvey ſhall be compleated, and that the Catawbas ſhall not, in any reſpect, Be moleſted by any of the king's ſubjects, within the ſaid lines, but ſhall be indulged in the uſual manner of hunting elſewhere.</p>
@@ -1183,7 +1183,7 @@ Georgia, on the lands or hunting grounds reſerved and claimed by the Creek Indi
                                        <desc>•</desc>
                                     </gap>ſe limits.</note> that none of his ſubjects ſhall ſettle upon, or diſturb the Indians in, the grounds or lands to the weſtward of the lines herein before deſcribed; and that if any ſhall preſume to do ſo, then, on complaint made by the Indians, the party ſhall be proceeded againſt for the ſame, and puniſhed according to the laws of the Engliſh.</p>
                               <p>In teſtimony whereof, we the underwritten have ſigned this preſent treaty, and put to it the ſeals of our arms, the day and year abovewritten, and the ſeveral 
-<pb n="41" facs="tcp:009706_0041_0F7A467A96F89D80"/>
+<pb n="41" facs="unknown:009706_0041_0F7A467A96F89D80"/>
 kings and chiefs of the ſeveral nations and tribes of Indians, have alſo ſet their hands and ſeals to the ſame, at the time and place aforeſaid.</p>
                            </div>
                            <closer>
@@ -1261,7 +1261,7 @@ kings and chiefs of the ſeveral nations and tribes of Indians, have alſo ſet 
                </q>
                <p>The ratification of peace and friendſhip being ſigned,<note place="bottom">Congreſs ended.</note> finiſhed the general congreſs: At which time the guns at Fort Auguſta were diſcharged, as they were at the opening of the congreſs.</p>
                <p>
-                  <pb n="42" facs="tcp:009706_0042_0F7A467B6E941A50"/>
+                  <pb n="42" facs="unknown:009706_0042_0F7A467B6E941A50"/>
 The Indians were informed,
 <note place="bottom">The Indians in<g ref="char:EOLhyphen"/>formed when and by whom the p<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1278,7 +1278,7 @@ The Indians were informed,
                            <desc>〈◊〉</desc>
                         </gap>
                         <g ref="char:punc">▪</g> yet their talks have been more friendly than we expected, and their voluntary offer of an augmentation of boundary to Georgia, upon the king's forgivenneſs of all paſt injuries being ſignified to them, ſuppoſing their profeſſions ſincere, and the chiefs of conſequence enough to act for the whole nation, which they declare they do, is certainly as ſtrong a proof as they can at preſent give of their good-will, it will be neceſſary, however, to mention to your lordſhip, that we have been privately cautioned, by the leader of the Chicaſahs, againſt confiding in the Creek profeſſions; he ſays he knows them, that nothing done here will be confirmed by the abſent leaders, in compariſon of whom the preſent chiefs are in<g ref="char:EOLhyphen"/>conſiderable: The Cherokees, in their intelligence, have gone ſtill farther, but as they ſeem on the point of a war with the Creeks, their teſtimony is to be ſuſ<g ref="char:EOLhyphen"/>pected. Though the talks will convey to your lordſhip our opinions of the 
-<pb n="43" facs="tcp:009706_0043_0F7A467C0392C798"/>
+<pb n="43" facs="unknown:009706_0043_0F7A467C0392C798"/>
 different diſpoſitions or the Indians, yet we thought neceſſary to add thus much, and to acquaint your lordſhip, that the Cherokees ſeem very pacific, but morti<g ref="char:EOLhyphen"/>fied at the refuſal of traders from South-Carolina, which the act now in force there prevents their being gratified with. And we beg leave to obſerve to your lordſhip on this head, that the general promiſe of goods which we have made, by the king's orders, to the reſpective Indians, requires ſuch a performance as it is impoſſible, circumſtanced as we are, to be anſwerable for, for we have no coer<g ref="char:EOLhyphen"/>cive power over traders. Your lordſhip will pardon us for ſuggeſting, that there never was a time more ſeaſonable, for the eſtabliſhing the commerce with In<g ref="char:EOLhyphen"/>dians, upon a general, ſafe, equitable footing, and which we are afraid will never be done by reſpective provinces. The Catawbas boundary as before agreed upon, is now confirmed, and they are well ſatisfied with it. Permit us to refer your lordſhip, for all further particulars of the congreſs, to the original papers which we ſhall have the honour of tranſmitting with the utmoſt diſpatch, and to hope that we have faithfully executed the king's commands, and approved ourſelves,</p>
                      <closer>
                         <salute>My Lord,</salute>
@@ -1296,7 +1296,7 @@ different diſpoſitions or the Indians, yet we thought neceſſary to add thus 
                   </body>
                </floatingText>
                <p>Then the ſecretary being ordered to withdraw,<note place="bottom">Mr. Box's gratu<g ref="char:EOLhyphen"/>ity for aſſiſting the ſecretary.</note> their excellencies, &amp;c. were pleaſed to agree, that he ſhould out of the fund in his hands, pay Mr. Box the ſum of ten pounds and ten ſhillings, ſterling, for aſſiſting Fenwicke Bull, their ſaid ſecretary at the congreſs: And that the ſaid Fenwicke Bull ſhould, from the ſaid fund, pay himſelf fifty-two pounds and ten ſhillings, ſterling,<note place="bottom">The ſecratary's.</note> as a gra<g ref="char:EOLhyphen"/>tuity for the executing his office;<note place="bottom">Particulars ordered to his care.</note> at the ſame time ordering him to write a fair copy, with marginal notes, &amp;c. with all poſſible diſpatch after his arrival in Charles-Town, to be forwarded to the earl of Egremont, his majeſty's principal ſecretary of ſtate for the ſouthern diſtrict, &amp;c. &amp;c. &amp;c. and alſo that he procure fifty copies of the ſame to be printed, from the ſaid journal,<note place="bottom">Fifty coples of the journal to be prin<g ref="char:EOLhyphen"/>ted.</note> for the uſe of 
-<pb n="44" facs="tcp:009706_0044_0F7A467CC16CE610"/>
+<pb n="44" facs="unknown:009706_0044_0F7A467CC16CE610"/>
 the ſecretary of ſtate,<note place="bottom">To whom to be diſtributed.</note> Sir Jeffery Amherſt, the four governors, ſuperintendent, &amp;c. who attended at the ſaid congreſs, and that they be alſo ſent to the Northward American governors, and thoſe of the new ceded places, that they may be informed of the proceedings at the ſaid congreſs.</p>
                <floatingText type="letter">
                   <body>
@@ -1324,7 +1324,7 @@ the ſecretary of ſtate,<note place="bottom">To whom to be diſtributed.</note>
                </floatingText>
                <floatingText type="letter">
                   <body>
-                     <pb n="45" facs="tcp:009706_0045_0F7A467D88A41110"/>
+                     <pb n="45" facs="unknown:009706_0045_0F7A467D88A41110"/>
                      <opener>
                         <dateline>Charles-Town, South-Carolina, <date>21ſt November, 1763.</date>
                         </dateline>
